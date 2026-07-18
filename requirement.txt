@@ -1,0 +1,12 @@
+1. TO run the  code 
+Add the lib of  the following - pandas numpy,matplotlib,scikit,seaborn before run the code
+pip install pandas numpy scikit-learn matplotlib seaborn  must be install in the system
+
+2.dataset is in the form of the CSV file due to which it was much easier to classify
+The dataset was taken from kaggle.com 
+
+3. run the code on the VScode terminal 
+4. Output  will be shown in the form of tables 
+there are two models 
+
+
